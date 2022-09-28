@@ -1,0 +1,13 @@
+#root {
+    color: blueviolet;
+    .January {
+        color: green;
+
+        &#1 {
+
+        }
+        .day {
+            color: pink;
+        }
+      }
+}
